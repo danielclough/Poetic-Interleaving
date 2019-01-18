@@ -2,3 +2,10 @@ each in turn higher
 desired operations
 made to compensate
 
+juxtaposition
+elements are related
+multi distribution
+
+address allocate
+i reside in i mod n
+n-way interleaved
