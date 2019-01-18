@@ -1,0 +1,5 @@
+contiguous 
+each in turn
+higher throughput
+reduced waiting
+ready for desired operations
