@@ -1,5 +1,4 @@
-contiguous 
-each in turn
-higher throughput
-reduced waiting
-ready for desired operations
+each in turn higher
+desired operations
+made to compensate
+
